@@ -1,0 +1,115 @@
+body {
+  background-color: #3CA9A6;
+  color: #D0D493;
+  font-family: Helvetica, Times New Roman, serif;
+  
+}
+
+h1 {
+  color: #99ff99;
+}
+
+a {
+	color: #FE5B84
+}
+
+a:hover {
+	color: #878553;
+	}
+	
+a:visited {
+	color: #414023;
+	}
+	
+	
+a:active {
+	color: #4D3D2B;
+	}
+	
+ul {
+	list-style-type: none;
+	}
+	
+.fa-broom{
+	color: #64422B;
+}
+
+.fa-broom:hover {
+	color: #878553;
+}
+	
+a.important-link {
+	color: #B4B189;
+}
+	
+	
+	
+	
+.div1 {
+    width: 200px;
+    height: 300px;
+    border: 1px solid blue;
+	box-sizing: border-box;
+}
+
+.box{
+	text-align: center;
+	
+}
+
+img {
+    width: 100%;
+}
+
+
+
+
+
+
+
+/* ...service box start... */
+
+
+.service-box  {
+	padding: 70px 0px;
+	border-bottom: 1px solid #AB3930;
+}
+
+.box-flex {
+	display: flex;
+	flex-direction: row; 
+	justify-content: space-around;
+	background-color: #fff;
+	padding: 20px 20px; /* 10px top-bottom and 20px left-right */
+	
+}
+
+.box-content {
+	padding: 20px 30px; /* 20px top-bottom and 30px left-right */
+	align-self: center; 
+	border-right: 1px solid #AB3930;
+	
+}
+
+
+.box-content h1 {
+	text-transform: uppercase;
+}
+
+
+/* ...service box end... */
+
+
+
+
+
+/*# sourceMappingURL=html.css.map */
+
+
+
+
+
+
+
+
+
