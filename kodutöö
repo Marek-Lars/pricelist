@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<style>
+
+#box-shadow {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px green;
+}
+
+</style>
+
+
+</head>
+
+<body>
+
+
+
+<div id="box-shadow">
+	<h2>Kodune ülesanne</h2>
+	<p>Rohelise varjundiga.</p>
+</div>
+
+
+</body>
+</html>
